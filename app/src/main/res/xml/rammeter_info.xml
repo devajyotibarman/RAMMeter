@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialKeyguardLayout="@layout/rammeter"
+    android:initialLayout="@layout/rammeter"
+    android:minHeight="40dp"
+    android:minWidth="110dp"
+    android:previewImage="@drawable/text4513"
+    android:updatePeriodMillis="1000"
+    android:widgetCategory="home_screen">
+</appwidget-provider>
